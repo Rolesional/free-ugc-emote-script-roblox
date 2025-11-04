@@ -274,7 +274,10 @@ local animations = {
 {name = "ZERO TWO", id = 133729878579101, speed = 1, timepos = 0, looped = true, freezeonend = false}, 
 	{name = "Make u mine", id = 78063069360906, speed = 1, timepos = 0, looped = true, freezeonend = false}, 
 	{name = "Get Sturdy", id = 110983437994089, speed = 1, timepos = 0, looped = true, freezeonend = false}, 
+	
 }
+
+--rolesional
 local active = {}
 
 local function makebutton(data)
