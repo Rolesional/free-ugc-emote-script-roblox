@@ -276,8 +276,7 @@ local animations = {
 	{name = "Get Sturdy", id = 110983437994089, speed = 1, timepos = 0, looped = true, freezeonend = false}, 
 	
 }
-
---rolesional
+--bruh, rolesional siggggggn
 local active = {}
 
 local function makebutton(data)
