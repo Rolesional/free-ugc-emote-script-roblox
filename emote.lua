@@ -272,7 +272,11 @@ local animations = {
 {name = "balance needy", id = 74586169564531, speed = 1, timepos = 0, looped = true, freezeonend = false}, 
 {name = "needy 5", id = 98923133325560, speed = 1, timepos = 0, looped = true, freezeonend = false},
 {name = "ZERO TWO", id = 133729878579101, speed = 1, timepos = 0, looped = true, freezeonend = false}, 
+	{name = "Make u mine", id = 78063069360906, speed = 1, timepos = 0, looped = true, freezeonend = false}, 
+	{name = "Get Sturdy", id = 110983437994089, speed = 1, timepos = 0, looped = true, freezeonend = false}, 
 }
+
+78063069360906
 local active = {}
 
 local function makebutton(data)
